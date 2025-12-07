@@ -1,0 +1,6 @@
+{
+    "editor.links": true,
+    "editor.inlayHints.enabled": "on",
+    "github.copilot.chat.agent.autoFix": true,
+    "github.copilot.chat.agent.currentEditorContext.enabled": true
+}
