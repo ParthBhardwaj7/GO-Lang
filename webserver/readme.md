@@ -4,6 +4,8 @@ A simple Go web server hooked up with Prometheus and Grafana to monitor
 real-time traffic, errors, and response times. Built this to learn how 
 observability actually works in production systems.
 
+<img width="1919" height="1030" alt="Image" src="https://github.com/user-attachments/assets/7bcdce99-8ffd-4a89-809e-bc0c2fb19575" />
+
 ## What's inside
 
 - Go HTTP server with `/hello` and `/form` endpoints
