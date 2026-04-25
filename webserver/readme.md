@@ -5,6 +5,7 @@ real-time traffic, errors, and response times. Built this to learn how
 observability actually works in production systems.
 
 <img width="1919" height="1030" alt="Image" src="https://github.com/user-attachments/assets/7bcdce99-8ffd-4a89-809e-bc0c2fb19575" />
+<img width="967" height="722" alt="Image" src="https://github.com/user-attachments/assets/80533dba-0823-4cb5-b3c7-eb56a5e66208" />
 
 ## What's inside
 
