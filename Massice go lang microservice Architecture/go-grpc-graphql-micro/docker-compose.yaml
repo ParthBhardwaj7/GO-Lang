@@ -1,0 +1,14 @@
+
+
+
+
+
+
+services:
+  account:
+  catalog:
+  order:
+  graphql:
+  account-db:
+  orders-db:
+  catalog-db:
